@@ -1,0 +1,11 @@
+Express JS
+    NOTES:
+        Framework which uses node.js for server side development for node.js that simplifies server side development
+        Used to connect from frontend to backend
+        supports middleware for handling requests
+        enables building API and web applications
+
+    Core concepts for express.js
+    Routers - defines endpoints to handlie http requests
+    MiddleWare - Functions that execute during request-response cycle
+    Error Handling - Manage errors gracefully
